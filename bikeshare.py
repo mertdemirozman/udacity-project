@@ -34,6 +34,7 @@ WEEK_DATA = { 'monday': 0,
                 'sat': 5,
                 'sun': 6}
 
+# This program is developed for analyse bikeshare data for Washington, New York and Chicago. The investors can filter by month, date or both for all cities and can display the stats. 
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
